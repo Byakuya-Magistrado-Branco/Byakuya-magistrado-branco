@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 Sobre mim
+## 🌸 Sobre mim
 
 ```yaml
 Nome: Byakuya
