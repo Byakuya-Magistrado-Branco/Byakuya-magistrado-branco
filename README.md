@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e60ce,100:6930c3&height=300&section=header&text=Nêmesis%20do%20Magistrado%20Branco&fontSize=35&fontColor=ffffff&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffc1e3&height=300&section=header&text=Nêmesis%20do%20Magistrado%20Branco&fontSize=35&fontColor=ffffff&fontAlign=50" />
 </div>
 
 ---
