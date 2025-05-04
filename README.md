@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">🌸 O Nêmesis do Magistrado Branco 🌸</h1>
 
-<!--
-**Byakuya-Magistrado-Branco/Byakuya-magistrado-branco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Codando+com+arte...;Criando+o+incomum...;Desenhando+ideias...;Explore+meu+Nemesis!" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>Um artista digital que transforma linhas de código em expressão criativa.</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e60ce,100:6930c3&height=150&section=header&text=Nêmesis%20do%20Magistrado%20Branco&fontSize=35&fontColor=ffffff&fontAlign=50" />
+</div>
+
+---
+
+## 🧠 Sobre mim
+
+```yaml
+Nome: Byakuya
+Estilo: Artista de Código
+Missão: Criar coisas que ninguém nunca viu
+Mentalidade: Nada é impossível para quem sonha em grande escala
+
