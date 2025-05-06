@@ -1,10 +1,10 @@
-<h1 align="center">🌸 O Nêmesis do Magistrado Branco 🌸</h1>
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Codando+com+arte...;Criando+o+incomum...;Desenhando+ideias...;Explore+meu+Nemesis!" alt="Typing SVG" />
 </p>
+
+---
+
+<h1 align="center">🌸 O Nêmesis do Magistrado Branco 🌸</h1>
 
 <p align="center">
   <em>Um artista digital que transforma linhas de código em expressão criativa.</em>
