@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ff4fc1&height=300&section=header&text=Nêmesis%20do%20Magistrado%20Branco&fontSize=55&fontColor=ffffff&fontAlign=50&fontAlignY=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:#ffa1f7&height=300&section=header&text=Nêmesis%20do%20Magistrado%20Branco&fontSize=55&fontColor=ffffff&fontAlign=50&fontAlignY=45" />
 </div>
 
 <p align="center">
